@@ -52,3 +52,20 @@ Termiņš: trešdiena, 2024. gada 12. jūnijs, 23:00
 1) a) Uzbūvējiet summu un reizinājumu tabulu gredzenam Z6. b) Atrodiet Z6 visus nulles dalītājus un visus inversos elementus. Parādiet visus aprēķina soļus.
 2) Uzrakstiet grupas SU(2) trīs dažādu elementu piemērus. Pamatojiet, ka ir sanācis pareizi. 
 3) (neobligāts) Neveidojot reizrēķina tabulu, atrodiet gredzenam Z16 visus nulles dalītājus un visus inversos elementus.
+
+
+Piezīmes
+
+==
+Jau pārbaudot MD8, konstatēju, ka "ir problēmas", bet ar MD9 situācija ir pavisam drūma. Lielākā daļa kolēģu nav klausījušies lekcijas un nav arī skatījušies ierakstus, tāpēc nesaprot uzdevumu nosacījumus. Piemēram:
+
+1) Attēlojiet skaitli z=-2+5i kompleksajā plaknē, no attēla iegūstiet aptuvenu z trigonometrisko pierakstu, pēc tam aprēķiniet visas z kubsaknes, attēlojiet tās kompleksajā plaknē un no attēla iegūstiet aptuvenus to algebriskos pierakstus. 
+
+Te vispirms bija jāuzzīmē bilde, tad no tās jānolasa aptuvens z modulis un aptuvens leņķis: mo(cos le +i sin le). Nevajag te ne kv sakni no 29, ne arktangensus.
+
+Pēc tam jāuzraksta visu triju kubsakņu trigon pieraksti ar aptuvenu skaitlisku moduli un aptuveniem leņķiem. Tad šīs trīs saknes jāattēlo plaknē un no attēla jānolasa aptuveni algebriskie pieraksti.
+
+Tas bija ļoti viegls uzdevums, ja rēķina tieši tā kā ir prasīts. Tie kolēģi, kuri klausījās lekciju, ar to arī viegli tika galā. Vienīgi izvilkt kubsakni no moduļa mo bez kalkulatora bija pagrūti, bet to varēja arī aptuveni uzminēt. Nekādus sinusus un kosinusus te nevajadzēja rēķināt, jo visur bija prasīti tikai aptuveni rezultāti.
+
+Eksāmena kontroldarbā būs ļoti līdzīgs uzdevums, tāpēc iesaku kolēģiem noskatīties attiecīgās lekcijas ierakstu, vai vismaz (tā būs ātrāk) palasīt lekcijas slaidus. 
+==
